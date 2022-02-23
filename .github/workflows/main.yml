@@ -25,6 +25,6 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.4
+        uses: dailydotdev/action-devcard@2.0.5
         with:
           devcard_id: ${{secrets.DEVCARD_ID}}
