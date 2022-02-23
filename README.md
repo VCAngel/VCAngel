@@ -1,6 +1,5 @@
-
 <div align="center">
-<img width="80%" height = "100%" src="https://i.gifer.com/YC6P.gif" alt="cover" />
+<img width="80%" height="50%" src="https://github.com/VCAngel/VCAngel/blob/rework/astro-loop.gif" alt="cover" ></img>
 </div>
 
 <h1 align="center"> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
