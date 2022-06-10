@@ -1,12 +1,12 @@
 <img src="https://github.com/VCAngel/VCAngel/blob/rework/banner.gif" alt="cover" width="100%"></img>
 
-```shell
-> neofetch
-```
-
 <a href="https://app.daily.dev/VCAngel">
     <img src="https://api.daily.dev/devcards/51c75db3f6af46c787d852413b84c08d.png?r=owd" width="250px" align="left" alt="Ángel Vargas's Dev Card"/>
 </a>
+
+```shell
+> neofetch
+```
 
 ```YAML
 VCAngel@github
