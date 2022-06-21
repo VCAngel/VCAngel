@@ -16,7 +16,7 @@ OS: Manjaro Linux x86_64
 Skills: Javascript, HTML 5, CSS 3,
         React, Vue, Node.js,
         Python, Java, C#
-Learning: Django, Express
+Learning: Express
 Interests: GNU/Linux, Rock/Metal, Gaming, Frogs
 Status: ʰᵉᵃᵈᵃᶜʰᵉ ᵒʷ ᵖᵃⁱⁿ ʰᵉˡᵖ
 ```
