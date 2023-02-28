@@ -12,9 +12,9 @@
 VCAngel@github
 -----------------------
 Location: Chihuahua, México
-OS: Manjaro Linux x86_64
+OS: EndevourOS
 Skills: Javascript, HTML 5, CSS 3,
-        React, Vue, Node.js,
+        React, Node.js,
         Python, Java
 Learning: Node.js, Deno, TypeScript
 Interests: GNU/Linux, Rock/Metal, Gaming, Frogs
