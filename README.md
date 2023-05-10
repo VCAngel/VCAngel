@@ -13,10 +13,10 @@ VCAngel@github
 -----------------------
 Location: Chihuahua, México
 OS: EndevourOS
-Skills: Javascript, HTML 5, CSS 3,
+Skills: JavaScript, HTML 5, CSS 3,
         React, Node.js,
         Python, Java
-Learning: Node.js, Deno, TypeScript
+Learning: TypeScript,.NET
 Interests: GNU/Linux, Rock/Metal, Gaming, Frogs
 Status: ʰᵉᵃᵈᵃᶜʰᵉ ᵒʷ ᵖᵃⁱⁿ ʰᵉˡᵖ
 ```
