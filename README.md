@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://app.daily.dev/vcangel">
-    <img src="https://api.daily.dev/devcards/v2/M5whAdqZH.png?type=default&r=jxy" width="30%" align="left" alt="Angel Vargas's Dev Card"/>
+    <img src="./devcard.png" width="30%" align="left" alt="Angel Vargas's Dev Card"/>
 </a>
 
 ```shell
