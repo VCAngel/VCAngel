@@ -1,4 +1,4 @@
-<img src="https://github.com/VCAngel/VCAngel/blob/rework/banner.gif" alt="cover" width="100%"></img>
+<img src="https://github.com/VCAngel/VCAngel/blob/master/banner.gif" alt="cover" width="100%"></img>
 
 <div>
 <a href="https://app.daily.dev/vcangel">
