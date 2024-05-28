@@ -2,9 +2,12 @@
 
 <div>
 <a href="https://app.daily.dev/vcangel">
-    <img src="./devcard.png" width="30%" align="left" alt="Angel Vargas's Dev Card"/>
+    <img src="./devcard.png" width="30%" align="right" alt="Angel Vargas's Dev Card"/>
 </a>
+</div>
 
+<div>
+    
 ```shell
 > neofetch
 ```
