@@ -19,7 +19,7 @@ Skills: [JavaScript, Typescript, Python, Java,
         HTML 5, CSS 3, Angular, React, Node.js,
         TailwindCSS]
 Learning: [TypeScript, Docker]
-Interests: [GNU/Linux, Rock/Metal, Gaming, Frogs]
+Interests: [GNU/Linux, Rock/Metal, Gaming, Frogs, Space]
 Status: ʰᵉᵃᵈᵃᶜʰᵉ ᵒʷ ᵖᵃⁱⁿ ʰᵉˡᵖ
 ```
 
