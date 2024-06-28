@@ -1,5 +1,7 @@
 <div>
+<a href="https://vcangel.dev">
 <img align="right" width="20%" src="https://i.redd.it/ovzljl6blr481.jpg" alt="banner" />
+</a>
 
 ```shell
 > neofetch
@@ -28,10 +30,11 @@ Status: ʰᵉᵃᵈᵃᶜʰᵉ ᵒʷ ᵖᵃⁱⁿ ʰᵉˡᵖ
 ---
 
 <div>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=dedoloco321&redirect=true">
-<img width="30%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=dedoloco321&cover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&redirect=true">
+<img width="30%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&cover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
 </a>
 
-
-<img width="10%" align="right" src="https://media0.giphy.com/media/kZsMuckSeAdEPd9gSF/200w.gif" />
+<a href="https://www.youtube.com/watch?v=Rb386adBJ9k">
+<img width="10%" align="right" src="https://media0.giphy.com/media/kZsMuckSeAdEPd9gSF/200w.gif"  />
+</a>
 </div>
