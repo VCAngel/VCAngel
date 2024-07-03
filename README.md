@@ -21,7 +21,7 @@ Skills: [JavaScript, Typescript, Python, Java,
         HTML 5, CSS 3, Angular, React, Node.js,
         TailwindCSS]
 Learning: [TypeScript, Docker]
-Interests: [GNU/Linux, Rock/Metal, Gaming, Frogs, Space]
+Interests: [GNU/Linux, Rock/Metal, Gaming, Phrogs, Space]
 Status: ʰᵉᵃᵈᵃᶜʰᵉ ᵒʷ ᵖᵃⁱⁿ ʰᵉˡᵖ
 ```
 
@@ -34,7 +34,8 @@ Status: ʰᵉᵃᵈᵃᶜʰᵉ ᵒʷ ᵖᵃⁱⁿ ʰᵉˡᵖ
 <img width="30%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&cover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
 </a>
 
-<a href="https://www.youtube.com/watch?v=Rb386adBJ9k">
-<img width="10%" align="right" src="https://media0.giphy.com/media/kZsMuckSeAdEPd9gSF/200w.gif"  />
+<a href="https://www.youtube.com/watch?v=abxX7P1J8I4">
+<img width="10%" align="right" src="https://github.com/VCAngel/VCAngel/assets/42756104/ddab01c4-602d-4bbb-a13f-5a59087755c5" alt="phrog" />
 </a>
+
 </div>
