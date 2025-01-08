@@ -3,14 +3,20 @@
 <img align="right" width="20%" src="https://i.redd.it/ovzljl6blr481.jpg" alt="banner" />
 </a>
 
+<div>
+
 ```shell
  > 𝚗𝚎𝚘𝚏𝚎𝚝𝚌𝚑 
 ```
 
 <a href="https://www.youtube.com/watch?v=1rd4P7uMvvQ">
-<img src="https://media0.giphy.com/media/y8tLxq4uGuIWFFIOQW/giphy.gif?cid=6c09b9527qnlf48ro73tsg5hn1nbfwmzgcngkhf55os37k4v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="hello!" width="20%" align="left"/>
-</a>
-
+  <img
+    src="https://render.gitanimals.org/lines/VCAngel?pet-id=664910307701458901"
+    width="20%"
+   height="256px"
+   align="left"
+  />
+</a>  
 
 ``` yaml
 𝚅𝙲𝙰𝚗𝚐𝚎𝚕@𝚐𝚒𝚝𝚑𝚞𝚋
@@ -26,6 +32,9 @@
 𝚂𝚝𝚊𝚝𝚞𝚜: 𝕔𝕠𝕗𝕗𝕖𝕖 𝕥𝕚𝕞𝕖 𝕨𝕠𝕒𝕙! ☕
 ```
 
+
+</div>
+
 </div>
 
 ---
@@ -40,3 +49,10 @@
 </a>
 
 </div>
+
+
+
+
+
+  
+  
