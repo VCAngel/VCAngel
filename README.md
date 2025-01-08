@@ -13,7 +13,6 @@
   <img
     src="https://render.gitanimals.org/lines/VCAngel?pet-id=664910307701458901"
     width="20%"
-   height="256px"
    align="left"
   />
 </a>  
