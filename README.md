@@ -3,19 +3,13 @@
 <img align="right" width="20%" src="https://i.redd.it/ovzljl6blr481.jpg" alt="banner" />
 </a>
 
-<div>
-
 ```shell
  > 𝚗𝚎𝚘𝚏𝚎𝚝𝚌𝚑 
 ```
 
-<a href="https://www.youtube.com/watch?v=1rd4P7uMvvQ">
-  <img
-    src="https://render.gitanimals.org/lines/VCAngel?pet-id=664910307701458901"
-    width="20%"
-   align="left"
-  />
-</a>  
+<a href="https://www.youtube.com/watch?v=abxX7P1J8I4">
+<img width="24%" align="left" src="https://github.com/VCAngel/VCAngel/assets/42756104/ddab01c4-602d-4bbb-a13f-5a59087755c5" alt="phrog" />
+</a>
 
 ``` yaml
 𝚅𝙲𝙰𝚗𝚐𝚎𝚕@𝚐𝚒𝚝𝚑𝚞𝚋
@@ -31,9 +25,6 @@
 𝚂𝚝𝚊𝚝𝚞𝚜: 𝕔𝕠𝕗𝕗𝕖𝕖 𝕥𝕚𝕞𝕖 𝕨𝕠𝕒𝕙! ☕
 ```
 
-
-</div>
-
 </div>
 
 ---
@@ -43,9 +34,14 @@
 <img width="30%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&cover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
 </a>
 
-<a href="https://www.youtube.com/watch?v=abxX7P1J8I4">
-<img width="10%" align="right" src="https://github.com/VCAngel/VCAngel/assets/42756104/ddab01c4-602d-4bbb-a13f-5a59087755c5" alt="phrog" />
-</a>
+<a href="https://www.youtube.com/watch?v=1rd4P7uMvvQ">
+  <img
+    src="https://render.gitanimals.org/lines/VCAngel?pet-id=664910307701458901"
+    width="40%"
+   height="80px"
+   align="right"
+  />
+</a>  
 
 </div>
 
