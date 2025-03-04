@@ -22,7 +22,7 @@
         𝙽𝚘𝚍𝚎, Deno, AWS]
 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: [𝙰𝚆𝚂, Rust]
 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: [𝙶𝙽𝚄/𝙻𝚒𝚗𝚞𝚡, 𝚁𝚘𝚌𝚔/𝙼𝚎𝚝𝚊𝚕, 𝙶𝚊𝚖𝚒𝚗𝚐, 𝙿𝚑𝚛𝚘𝚐𝚜, 𝚂𝚙𝚊𝚌𝚎]
-𝚂𝚝𝚊𝚝𝚞𝚜: 𝕔𝕠𝕗𝕗𝕖𝕖 𝕥𝕚𝕞𝕖 𝕨𝕠𝕒𝕙! ☕
+𝚂𝚝𝚊𝚝𝚞𝚜:  𝑰 𝒅𝒐 𝒎𝒚 𝒃𝒆𝒔𝒕! ･ᴗ･ 
 ```
 
 </div>
@@ -34,13 +34,8 @@
 <img width="30%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&cover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
 </a>
 
-<a href="https://www.youtube.com/watch?v=1rd4P7uMvvQ">
-  <img
-    src="https://render.gitanimals.org/lines/VCAngel?pet-id=664910307701458901"
-    width="40%"
-   height="80px"
-   align="right"
-  />
+<a href="https://youtube.com/shorts/zgRRBK1LG5A?si=7d3rqLndY9-dL9h6">
+  <img src="https://github.com/user-attachments/assets/0a85e0b7-1af4-412b-8360-ea7d9b979236" width="15%" align="right" />
 </a>  
 
 </div>
