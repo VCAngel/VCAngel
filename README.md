@@ -1,8 +1,5 @@
 <div>
-<a href="https://vcangel.dev">
-<img align="right" width="20%" src="https://i.redd.it/ovzljl6blr481.jpg" alt="banner" />
-</a>
-
+ 
 ```shell
  > 𝚗𝚎𝚘𝚏𝚎𝚝𝚌𝚑 
 ```
