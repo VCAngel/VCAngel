@@ -1,7 +1,7 @@
 <div>
  
 ```shell
- > 𝚗𝚎𝚘𝚏𝚎𝚝𝚌𝚑 
+> 𝚗𝚎𝚘𝚏𝚎𝚝𝚌𝚑 
 ```
 
 <a href="https://www.youtube.com/watch?v=abxX7P1J8I4">
