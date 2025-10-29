@@ -4,7 +4,7 @@
 𝐯𝐜𝐚𝐧𝐠𝐞𝐥@𝐠𝐢𝐭𝐡𝐮𝐛 ~ % 𝚏𝚊𝚜𝚝𝚏𝚎𝚝𝚌𝚑 --𝚌𝚘𝚗𝚏𝚒𝚐 𝚊𝚋𝚘𝚞𝚝 
 ```
 
-<a href="https://www.youtube.com/watch?v=abxX7P1J8I4">
+<a href="https://www.youtube.com/watch?v=UPrQdaixz-4">
 <img width="24%" align="left" src="https://github.com/VCAngel/VCAngel/assets/42756104/ddab01c4-602d-4bbb-a13f-5a59087755c5" alt="phrog" />
 </a>
 
