@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Fetch README
-        run: curl -X GET "${{ secrets.API_ENDPOINT }}" -o temp.md
+        run: curl -X GET "${{ secrets.API_ENDPOINT }}" > temp.md
 
       - name: Print README 
         run: cat temp.md
