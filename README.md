@@ -1,4 +1,3 @@
-
 ```zsh
 vcangel@github ~ % fastfetch --config about
 ```
@@ -29,9 +28,3 @@ Status: I do my best! ( ˙꒳˙ )
 <a href="https://youtube.com/shorts/zgRRBK1LG5A?si=7d3rqLndY9-dL9h6">
   <img src="https://github.com/user-attachments/assets/0a85e0b7-1af4-412b-8360-ea7d9b979236" width="15%" align="right" />
 </a>  
-
-
-
-
-  
-  

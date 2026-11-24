@@ -1,4 +1,4 @@
-name: daily-devcard
+name: README.md Update
 on:
   workflow_dispatch:
   push:
@@ -6,14 +6,38 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
-  devcard:
+  fetch-content:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@3.2.0
-        with:
-          user_id: ${{ secrets.USER_ID }}
-          commit_message: "chore: update ${filename}"
+      - uses: actions/checkout@v7
+
+      - name: Fetch README
+        run: curl -X GET "${{ secrets.API_ENDPOINT }}" -o temp.md
+
+      - name: Print README 
+        run: cat temp.md
+
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Update README
+        run: mv temp.md README.md
+
+      - name: Remove temps
+        run: rm temp.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "[Actions] Update project structure tree" || echo "No changes to commit! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
+          git push
