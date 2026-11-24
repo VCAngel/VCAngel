@@ -1,5 +1,4 @@
-<div>
- 
+
 ```zsh
 vcangel@github ~ % fastfetch --config about
 ```
@@ -21,12 +20,8 @@ Learning: [ Rust 🦀, Lua 🪨 ]
 Interests: [ GNU/Linux, Rock/Metal, Gaming, Phrogs, Space ]
 Status: I do my best! ( ˙꒳˙ )
 ```
-
-</div>
-
 ---
 
-<div>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&redirect=true">
 <img width="30%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dedoloco321&cover_image=true&theme=natemoo-re&bar_color=99c1f1&bar_color_cover=true" />
 </a>
@@ -34,9 +29,6 @@ Status: I do my best! ( ˙꒳˙ )
 <a href="https://youtube.com/shorts/zgRRBK1LG5A?si=7d3rqLndY9-dL9h6">
   <img src="https://github.com/user-attachments/assets/0a85e0b7-1af4-412b-8360-ea7d9b979236" width="15%" align="right" />
 </a>  
-
-</div>
-
 
 
 
