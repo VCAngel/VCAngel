@@ -10,18 +10,17 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v7
 
       - name: Fetch README
         run: |
           curl -X GET "${{ secrets.API_ENDPOINT }}" -o temp.md && \
+          ls && \
           cat temp.md
 
       - name: Update README
-        run: mv temp.md README.md && rm temp.md
+        run: mv temp.md README.md
 
       - name: Commit changes
         run: |
