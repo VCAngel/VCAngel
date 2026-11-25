@@ -16,7 +16,6 @@ jobs:
       - name: Fetch README
         run: |
           curl -X GET "${{ secrets.API_ENDPOINT }}" -o temp.md && \
-          ls && \
           cat temp.md
 
       - name: Update README
@@ -27,5 +26,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "[Actions] Update project structure tree" || echo "No changes to commit! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
+          git commit -m "[Actions] Update README" || echo "No changes to commit! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
           git push
