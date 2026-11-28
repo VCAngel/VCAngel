@@ -8,7 +8,7 @@ vcangel@github ~ % fastfetch --config about
 
 ```yaml
 Location: Chihuahua, Mexico (UTC-6)
-Uptime: 26 years, 0 months, 12 days
+Uptime: 26 years, 0 months, 13 days
 OS: Arch Linux (btw)
 Skills:
   Languages: [ Typescript, Python, Java ]
